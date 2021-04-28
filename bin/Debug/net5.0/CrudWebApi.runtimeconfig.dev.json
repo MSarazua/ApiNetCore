@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\MSarazua\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\MSarazua\\.nuget\\packages"
+    ]
+  }
+}
